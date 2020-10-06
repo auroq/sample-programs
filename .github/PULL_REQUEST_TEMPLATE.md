@@ -7,16 +7,16 @@ Instead, please navigate to one of the URLs below to start creating your pull re
 
 
 If you would like to add a code snippet in an existing language:
-https://github.com/TheRenegadeCoder/sample-programs/compare?template=code-snippet.md
+https://github.com/auroq/sample-programs/compare?template=code-snippet.md
 
 If you would like to add a code snippet in a new language:
-https://github.com/TheRenegadeCoder/sample-programs/compare?template=new-language-code-snippet.md
+https://github.com/auroq/sample-programs/compare?template=new-language-code-snippet.md
 
 If you would like to add tests for a project:
-https://github.com/TheRenegadeCoder/sample-programs/compare?template=new-project-code-snippet.md
+https://github.com/auroq/sample-programs/compare?template=new-project-code-snippet.md
 
 If you would like to modify an existing code snippet or existing tests:
-https://github.com/TheRenegadeCoder/sample-programs/compare?template=refactor.md
+https://github.com/auroq/sample-programs/compare?template=refactor.md
 
 
 [renegade-coder]: https://therenegadecoder.com
